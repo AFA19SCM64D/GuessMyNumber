@@ -1,5 +1,6 @@
 'use strict';
 
+//Javascript Project for basic DOM Manipulation
 
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
